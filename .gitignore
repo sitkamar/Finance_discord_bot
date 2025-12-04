@@ -1,7 +1,8 @@
 # token
 token.json
 # data
-budget_data.csv
+*.csv
+budget_plan.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
